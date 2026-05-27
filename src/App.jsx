@@ -700,7 +700,7 @@ function Footer() {
 
         {/* Bottom bar */}
         <div style={{ borderTop: "1px solid rgba(255,255,255,0.05)", paddingTop: "2rem", display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: "12px" }}>
-          <div style={{ fontSize: "0.78rem", color: "rgba(255,255,255,0.25)" }}>© 2024 CRED (Dreamplug Technologies Pvt. Ltd.) · All rights reserved.</div>
+          <div style={{ fontSize: "0.78rem", color: "rgba(255,255,255,0.25)" }}>© 2026 CRED (Dreamplug Technologies Pvt. Ltd.) · All rights reserved.</div>
           <div style={{ display: "flex", gap: "16px" }}>
             {["RBI Regulated", "PCI DSS", "ISO 27001"].map(b => (
               <span key={b} style={{ fontSize: "0.7rem", color: "rgba(255,255,255,0.2)", padding: "4px 10px", border: "1px solid rgba(255,255,255,0.08)", borderRadius: "20px" }}>{b}</span>
